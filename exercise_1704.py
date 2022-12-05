@@ -1,0 +1,3 @@
+def halvesAreAlike(self, s: str) -> bool:
+    ...
+
